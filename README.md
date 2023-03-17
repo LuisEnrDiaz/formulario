@@ -16,7 +16,7 @@ proyecto creado en react con typescript, un formulario simple con un Register y 
 
 ## 🖥️ Despliegue
 
-[Prueba este formulario con control de errores al no completar los campos](https://todo-list-reactts.netlify.app/)
+[Prueba este formulario con control de errores al no completar los campos](https://formulario-react-12dcfe.netlify.app/)
 
 ## 🚀 Instalación
 
